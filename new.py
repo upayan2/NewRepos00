@@ -1,5 +1,5 @@
 a = 7
-b = 2
+b = 9
 
 #addition
 print ('Sum: ', a + b)  
